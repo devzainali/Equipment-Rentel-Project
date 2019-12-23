@@ -1,0 +1,22 @@
+{
+  "jwtPrivateKey": "key123#",
+  "paypal": {
+    "mode": "sandbox",
+    "client_id": "ARFnMsPa_ZZoPwx4UuKDy4gtEVVQOUfO7SBMTaiFlZrahuxTFjWskmAMEAawsvrCNNbAy9YsgeqDMQtw",
+    "client_secret": "EOAAEsbqFBI_kNrhGLcVW4Z8PXzHINCNbik5EYGBzNWCH6OZWFuQuUnIAjClLYFutZH43SzBOP7gJNV9"
+  },
+  "Notification": {
+    "appId": "890816",
+    "key": "930eeae4a67557e26c7e",
+    "secret": "4e83e3789d40f671dd29",
+    "cluster": "ap2",
+    "encrypted": true
+  },
+  "chat": {
+    "appId": "890812",
+    "key": "41771009938f64022d70",
+    "secret": "bcb0c485020734fb7a72",
+    "cluster": "ap2",
+    "encrypted": true
+  }
+}

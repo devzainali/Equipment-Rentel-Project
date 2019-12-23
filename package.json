@@ -1,0 +1,36 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-object-merge": "^1.2.0",
+    "bcrypt": "^3.0.7",
+    "config": "^3.2.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "multer": "^1.4.2",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.7.0",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.3.1",
+    "path": "^0.12.7",
+    "paypal-rest-sdk": "^1.8.1",
+    "pusher": "^3.0.0",
+    "sequelize": "^5.18.4",
+    "sequelize-cli": "^5.5.1",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}

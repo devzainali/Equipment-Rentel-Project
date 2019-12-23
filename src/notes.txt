@@ -1,0 +1,13 @@
+mysql password problem to unstall
+mysql validate password plugin ==> uninstall plugin validate_password;
+
+
+create new user of mysql using these commands
+CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON database_name.* TO 'newuser'@'localhost';
+
+updating password of mysql user like this
+
+SET PASSWORD FOR 'username'@'hostname' = PASSWORD('password');
+
+

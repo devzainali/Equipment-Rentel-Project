@@ -1,0 +1,20 @@
+making seed
+sequelize seed:generate --name demo-user
+
+making migration
+sequelize migration:generate --name create_name_table
+
+
+// FIRA CODE
+object o; 
+if (o is int i || (o is string s && 
+    int.TryParse(s, out i)) { /* use i */ }
+var x = 0xABCDEF;
+-> --> ==> != === !== && ||<=<  
+</><tag> http://www.hanselman.com 
+<=><!-- HTML Comment -->
+i++; #### ***
+
+
+
+const hostname = 'http://ec2-xx-xxx-xxx-xx.compute-1.amazonaws.com/';
